@@ -12,3 +12,7 @@
 - [【新人教育 資料】第3章 SQLへの道 〜基本数学編〜][url_math]
 
 [url_math]: https://qiita.com/devopsCoordinator/items/08e405a9c58cc203d016
+
+- [【新人教育 資料】第4章 SQLへの道 〜SQL基本操作編〜][url_operation]
+
+[url_operation]: https://qiita.com/devopsCoordinator/items/0f742158caf0fdb533e3
