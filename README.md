@@ -16,3 +16,7 @@
 - [【新人教育 資料】第4章 SQLへの道 〜SQL基本操作編〜][url_operation]
 
 [url_operation]: https://qiita.com/devopsCoordinator/items/0f742158caf0fdb533e3
+
+- [【新人教育 資料】第5章 SQLへの道 〜絞込編〜][url_where]
+
+[url_where]: https://qiita.com/devopsCoordinator/items/dca5aa9c155292f1c6ea
