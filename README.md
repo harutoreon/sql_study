@@ -20,3 +20,7 @@
 - [【新人教育 資料】第5章 SQLへの道 〜絞込編〜][url_where]
 
 [url_where]: https://qiita.com/devopsCoordinator/items/dca5aa9c155292f1c6ea
+
+- [【新人教育 資料】第6章 SQLへの道 〜ソート編〜][url_sort]
+
+[url_sort]: https://qiita.com/devopsCoordinator/items/8cad032aa035dc1cdbc0
