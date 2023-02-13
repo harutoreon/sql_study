@@ -28,3 +28,7 @@
 - [【新人教育 資料】第7章 SQLへの道 〜集合関数（SUM、MAX、MIN、AVG、COUNT）編〜][url_function]
 
 [url_function]: https://qiita.com/devopsCoordinator/items/85918c8508dddf19586f
+
+- [【新人教育 資料】第8章 SQLへの道 〜グループ編〜][url_group]
+
+[url_group]: https://qiita.com/devopsCoordinator/items/f74228615982932c914b
