@@ -32,3 +32,7 @@
 - [【新人教育 資料】第8章 SQLへの道 〜グループ編〜][url_group]
 
 [url_group]: https://qiita.com/devopsCoordinator/items/f74228615982932c914b
+
+- [【新人教育 資料】第9章 SQLへの道 〜結合編〜][url_join]
+
+[url_join]: https://qiita.com/devopsCoordinator/items/3ba154429973a4ddc9e0
